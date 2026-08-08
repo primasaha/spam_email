@@ -1,0 +1,1 @@
+This project uses machine learning to detect whether an email is spam or not. It converts email text into numerical features using TF-IDF and then uses a classification model to predict spam and ham emails.
